@@ -1,6 +1,6 @@
 <div>
   <h1>I Kadek Bayu Danu Artha</h1> 
-  <p>AI Engineer | Computer Vision | Machine Learnin</p>
+  <p>AI Engineer | Computer Vision | Machine Learning</p>
   <a href="https://drive.google.com/file/d/1qnD6HowJlTJV5b5Xap4hNAMUkYDumELw/view">View CV</a>
 </div>
 
